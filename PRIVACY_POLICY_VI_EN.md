@@ -153,8 +153,8 @@ We may update this Privacy Policy from time to time. The latest version will be 
 
 For privacy questions or data requests, contact us at:
 - Organization: AuraSoft Systems
-- Support email: support@aurasoft.example
-- Website: https://aurasoft.example
+- Support email: vinhlephu.vinhlephu@gmail.com
+- Website: none
 
 ---
 
